@@ -1,3 +1,1 @@
-chapter 2
-
-Modification in chapter 2
+This is align chapter 2
